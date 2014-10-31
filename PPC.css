@@ -1,5 +1,6 @@
+/*MASTER COMMIT*/
 body {
-	width: 970px;
+	width: 1150px;
 
 }
 
@@ -53,19 +54,21 @@ body {
 	vertical-align: bottom;
 	margin-left: 30px;
 }
+/*MASTER COMMIT*/
 
+/*FIRST BRANCH COMMIT*/
 .black {
 	background-color: #31312F; 
 }
 
 .main {
-	height: 400px;
+	height: 370px;
 }
 
 .main img { 
 	display: inline-block;
-	height: 340px;
-	width: 250px;
+	height: 240px;
+	/*width: 250px;*/
 	vertical-align: top;
 	margin-top: 10px;
 
@@ -73,7 +76,8 @@ body {
 
 .content {
 	display: inline-block;
-	width: 700px;
+	width: 600px;
+	height: 500px;
 }
 
 .content h4 {
@@ -101,6 +105,18 @@ body {
 	margin-left: 20px;
 	margin-top: 0px;
 	padding-top: 10px;
+}
+/*FIRST BRANCH COMMIT*/
+
+/*SECOND BRANCH COMMIT*/
+.caption img {
+	display: inline-block;
+}
+
+.caption p {
+	display: inline-block;
+	vertical-align: top;
+
 }
 
 
