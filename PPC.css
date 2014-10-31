@@ -15,7 +15,7 @@ body {
 
 .banner h2 {
 	display: inline-block;
-	margin-left: 200px;
+	margin-left: 380px;
 	vertical-align: top;
 	color: #3A281F;
 	font-family: arial;
@@ -25,6 +25,11 @@ body {
 .tabs {
 	background-color: #DCE2E6;
 	height: 40px;
+	vertical-align: top;
+}
+
+.tabs ul {
+	margin-top: 0;
 }
 
 .tabs li {
@@ -43,7 +48,7 @@ body {
 
 .blank {
 	background-color: #F4F4F4;
-	width:970px;
+	width:1150px;
 	height: 40px;
 }
 
@@ -62,33 +67,31 @@ body {
 }
 
 .main {
-	height: 370px;
+	height: 400px;
 }
 
 .main img { 
 	display: inline-block;
-	height: 240px;
-	/*width: 250px;*/
+	height: 385px;
+	width: 478px;
 	vertical-align: top;
 	margin-top: 10px;
-
 }
 
 .content {
 	display: inline-block;
-	width: 600px;
-	height: 500px;
+	width: 650px;
+	height: 330px;
+	vertical-align: top;
 }
 
 .content h4 {
 	margin-left: 10px;
 	background-image: linear-gradient(to bottom, #FFDA5D, #FDD060, #FEC73A);
-	padding-top: 10px;
-	padding-bottom: 10px;
 	padding-left: 15px;
 	font-family: arial;
 	margin-bottom: 0px;
-
+	margin-top: 10px;
 }
 
 .transparent {
@@ -96,7 +99,8 @@ body {
 	background-color: #6B6B69;
 	margin-top: 0px;
 	margin-left: 10px;
-	height: 300px;
+	height: 330px;
+	padding-bottom: 30px;
 }
 
 .transparent p {
@@ -105,6 +109,7 @@ body {
 	margin-left: 20px;
 	margin-top: 0px;
 	padding-top: 10px;
+	font-size: 9px;
 }
 /*FIRST BRANCH COMMIT*/
 
