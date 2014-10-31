@@ -57,3 +57,55 @@ body {
 .black {
 	background-color: #31312F; 
 }
+
+.main {
+	height: 400px;
+}
+
+.main img { 
+	display: inline-block;
+	height: 340px;
+	width: 250px;
+	vertical-align: top;
+	margin-top: 10px;
+
+}
+
+.content {
+	display: inline-block;
+	width: 700px;
+}
+
+.content h4 {
+	margin-left: 10px;
+	background-image: linear-gradient(to bottom, #FFDA5D, #FDD060, #FEC73A);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	font-family: arial;
+	margin-bottom: 0px;
+
+}
+
+.transparent {
+	vertical-align: top;
+	background-color: #6B6B69;
+	margin-top: 0px;
+	margin-left: 10px;
+	height: 300px;
+}
+
+.transparent p {
+	color: #FAFAF8;
+	font-family: arial;
+	margin-left: 20px;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
