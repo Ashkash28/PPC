@@ -1,5 +1,6 @@
+/*MASTER COMMIT*/
 body {
-	width: 970px;
+	width: 1150px;
 
 }
 
@@ -14,7 +15,7 @@ body {
 
 .banner h2 {
 	display: inline-block;
-	margin-left: 200px;
+	margin-left: 380px;
 	vertical-align: top;
 	color: #3A281F;
 	font-family: arial;
@@ -24,6 +25,11 @@ body {
 .tabs {
 	background-color: #DCE2E6;
 	height: 40px;
+	vertical-align: top;
+}
+
+.tabs ul {
+	margin-top: 0;
 }
 
 .tabs li {
@@ -42,7 +48,7 @@ body {
 
 .blank {
 	background-color: #F4F4F4;
-	width:970px;
+	width:1150px;
 	height: 40px;
 }
 
@@ -53,7 +59,128 @@ body {
 	vertical-align: bottom;
 	margin-left: 30px;
 }
+/*MASTER COMMIT*/
 
+/*FIRST BRANCH COMMIT*/
 .black {
 	background-color: #31312F; 
+}
+
+.main {
+	height: 400px;
+}
+
+.main img { 
+	display: inline-block;
+	height: 385px;
+	width: 478px;
+	vertical-align: top;
+	margin-top: 10px;
+}
+
+.content {
+	display: inline-block;
+	width: 650px;
+	height: 330px;
+	vertical-align: top;
+}
+
+.content h4 {
+	margin-left: 10px;
+	background-image: linear-gradient(to bottom, #FFDA5D, #FDD060, #FEC73A);
+	padding-left: 15px;
+	font-family: arial;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.transparent {
+	vertical-align: top;
+	background-color: #6B6B69;
+	margin-top: 0px;
+	margin-left: 10px;
+	height: 330px;
+	padding-bottom: 30px;
+}
+
+.transparent p {
+	color: #FAFAF8;
+	font-family: arial;
+	margin-left: 20px;
+	margin-top: 0px;
+	padding-top: 10px;
+	font-size: 9px;
+}
+/*FIRST BRANCH COMMIT*/
+
+/*SECOND BRANCH COMMIT*/
+.caption img {
+	display: inline-block;
+	margin: 0;
+}
+
+.caption p {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+	color: #737B5D;
+
+}
+
+.caption {
+	color: #2D2D2D; 
+}
+
+.options {
+	background-color: #0F0F0F;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0;
+	height: 500px;
+}
+
+.options h4 {
+	background-image: linear-gradient(to bottom, #FFDA5D, #FDD060, #FEC73A);
+	/*display: inline-block;*/
+	vertical-align: top;
+}
+
+.title h4 {
+	vertical-align: top;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: -1px;
+	padding-left: 5px;
+}
+
+
+.AUTOMATIVE {
+	width: 235.5px;
+	height: 390px;
+	display: inline-block;
+	margin-right: 32px;
+	vertical-align: top;
+	background-color: #FFFFFF;
+	font-size: 9px;
+	padding-left: 1px;
+
+}
+
+.AUTOMATIVE p {
+	padding-left: 2px;
+	padding-right: 1px;
+}
+
+
+.AUTOMATIVE img {
+	width: 235px;
+	vertical-align: bottom;
+	margin-top: -22px;
+}
+
+.arrow img {
+	background-color: #FFC52D;
+	margin-left: 120px;
+	width: 110px;
+	margin-top: 30px;
 }
