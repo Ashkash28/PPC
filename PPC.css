@@ -116,17 +116,71 @@ body {
 /*SECOND BRANCH COMMIT*/
 .caption img {
 	display: inline-block;
+	margin: 0;
 }
 
 .caption p {
 	display: inline-block;
 	vertical-align: top;
+	margin: 0;
+	color: #737B5D;
 
 }
 
+.caption {
+	color: #2D2D2D; 
+}
+
+.options {
+	background-color: #0F0F0F;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0;
+	height: 500px;
+}
+
+.options h4 {
+	background-image: linear-gradient(to bottom, #FFDA5D, #FDD060, #FEC73A);
+	/*display: inline-block;*/
+	vertical-align: top;
+}
+
+.title h4 {
+	vertical-align: top;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: -1px;
+	padding-left: 5px;
+}
 
 
+.AUTOMATIVE {
+	width: 235.5px;
+	height: 390px;
+	display: inline-block;
+	margin-right: 32px;
+	vertical-align: top;
+	background-color: #FFFFFF;
+	font-size: 9px;
+	padding-left: 1px;
+
+}
+
+.AUTOMATIVE p {
+	padding-left: 2px;
+	padding-right: 1px;
+}
 
 
+.AUTOMATIVE img {
+	width: 235px;
+	vertical-align: bottom;
+	margin-top: -22px;
+}
 
-
+.arrow img {
+	background-color: #FFC52D;
+	margin-left: 120px;
+	width: 110px;
+	margin-top: 30px;
+}
